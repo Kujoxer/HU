@@ -5,6 +5,7 @@
 #
 #https://wiki.debian.org/i3
 #If you want to install i3 minimally without useful packages, such as i3lock and i3status, use: 
+
 sudo apt install i3 --no-install-recommends;
 sudo apt install compton;
 sudo apt install feh;
