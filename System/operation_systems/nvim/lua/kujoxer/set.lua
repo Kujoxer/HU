@@ -13,9 +13,9 @@ vim.opt.linebreak = true
 -- -- --
 vim.opt.swapfile = false
 
--- vim.opt.backup = false
--- vim.opt.undodir = os.getenv("HOME") .. "/.vim/undodir"
--- vim.opt.undofile = true
+vim.opt.backup = false
+vim.opt.undodir = os.getenv("HOME") .. "/.vim/undodir"
+vim.opt.undofile = true
 
 -- NOTE: Опция `vim.opt.termguicolors = true` в Vim или Neovim включает поддержку "истинных цветов" (24-битных цветов) в терминале.
 vim.opt.termguicolors = true
