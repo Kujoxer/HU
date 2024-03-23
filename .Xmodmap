@@ -1,0 +1,5 @@
+!Caps_Lock:set as modifier (mod3)
+!set mod3 to Caps_Lock key, so I can use it as i3 modifier
+keycode 49 = grave
+clear mod3
+add mod3 = grave

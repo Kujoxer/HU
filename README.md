@@ -1,7 +1,7 @@
 # Home University "HU"
-Helloo! I'm Kujoxer, and this is my "Home University". 
+Helloo! I'm Kujoxer, and this is my "Home University".
 
-Here, I'm organizing my learning process for programming, self-education, study more effectvely. 
+Here, I'm organizing my learning process for programming, self-education, study more effectvely.
 
 # Goals
 - Study and practice Python, Rust, JavaScript
